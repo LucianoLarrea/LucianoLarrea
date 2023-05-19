@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianolarrea" alt="lucianolarrea" /></a> </p>
 - 🔭 I’m currently working on [Final Project for Henry](https://github.com/LucianoLarrea/PF_DS)
 
-- 🌱 I’m currently learning **AWS, Java and JavaScrip**
+- 🌱 I’m currently learning **AWS, Java and JavaScript**
 
 - 👯 I’m looking to collaborate on **Python, mySQL and Power BI**
 
