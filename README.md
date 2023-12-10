@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianolarrea&label=Profile%20views&color=0e75b6&style=flat" alt="lucianolarrea" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianolarrea" alt="lucianolarrea" /></a> </p>
-- 🔭 I’m currently working on [Final Project for Henry](https://github.com/LucianoLarrea/PF_DS)
+- 🔭 I’m currently working as freelancer data scientist
 
-- 🌱 I’m currently learning **AWS, Java and JavaScript**
+- 🌱 I’m currently learning **AWS, Azure and MS Fabric**
 
-- 👯 I’m looking to collaborate on **Python, mySQL and Power BI**
+- 👯 I’m looking to collaborate on **Python, R, mySQL and Power BI**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/LucianoLarrea)
 
