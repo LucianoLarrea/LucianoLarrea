@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianolarrea" alt="lucianolarrea" /></a> </p>
 - 🔭 I’m currently working as freelancer data scientist
 
-- 🌱 I’m currently learning **AWS, Azure and MS Fabric**
+- 🌱 I’m currently learning **Rust, AWS, Azure and MS Fabric**
 
 - 👯 I’m looking to collaborate on **Python, R, mySQL and Power BI**
 
@@ -42,7 +42,7 @@
 
 - I'm a Data Scientist with a background in engineering and master's degrees in Business Administration and Strategic Information Management.  
 - 👀 I’m interested to work as Data Scientist in Machine Learning and AI.  
-- 🌱 I’m currently learning Python, MySQL, R, Java and JavaScript.  
+- 🌱 I’m currently learning Rust, Java and JavaScript.  
 - 💞️ I’m looking to collaborate on Python, R and MySQL.  
 - 📫 How to reach me? Just write me throw takticflow@gmail.com or in [LinkedIn](https://www.linkedin.com/in/takticflow/). :). 
 
