@@ -1,16 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Luciano Larrea 🤓</h1>
-<h3 align="center">A passionate Data Scientist from Argentina 🇦🇷 </h3>
+<h3 align="center">A passionate AI Agent Engineer and Data Scientist from Argentina 🇦🇷 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianolarrea&label=Profile%20views&color=0e75b6&style=flat" alt="lucianolarrea" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianolarrea" alt="lucianolarrea" /></a> </p>
 - 🔭 I’m currently working as freelancer data scientist
 
-- 🌱 I’m currently learning **Rust, AWS, Azure and MS Fabric**
+- 🌱 I’m currently learning **AI Agents and Automation Workflows**
 
-- 👯 I’m looking to collaborate on **Python, R, mySQL and Power BI**
+- 👯 I’m looking to collaborate on **Agentic Workflows**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/LucianoLarrea)
 
@@ -40,10 +40,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianolarrea&show_icons=true&locale=en" alt="lucianolarrea" /></p>.   
 
-- I'm a Data Scientist with a background in engineering and master's degrees in Business Administration and Strategic Information Management.  
-- 👀 I’m interested to work as Data Scientist in Machine Learning and AI.  
-- 🌱 I’m currently learning Rust, Java and JavaScript.  
-- 💞️ I’m looking to collaborate on Python, R and MySQL.  
+- I'm a AI Agent Engineer and Data Scientist with a background in engineering and master's degrees in Business Administration and Strategic Information Management.  
+- 👀 I’m interested to work as Data Scientist in Machine Learning and AI Agent Engineer .  
+- 🌱 I’m currently learning to use Crew AI, Swarm and n8n.  
+- 💞️ I’m looking to collaborate on Agentic Workflows.  
 - 📫 How to reach me? Just write me throw takticflow@gmail.com or in [LinkedIn](https://www.linkedin.com/in/takticflow/). :). 
 
 <!---
