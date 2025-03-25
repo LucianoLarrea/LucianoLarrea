@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianolarrea&label=Profile%20views&color=0e75b6&style=flat" alt="lucianolarrea" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianolarrea" alt="lucianolarrea" /></a> </p>
-- 🔭 I’m currently working as freelancer data scientist
+- 🔭 I’m currently working as freelancer data scientist and launching my AI and Automation agency
 
-- 🌱 I’m currently learning **AI Agents and Automation Workflows**
+- 🌱 I’m currently developing **AI Agents and Automation Workflows**
 
 - 👯 I’m looking to collaborate on **Agentic Workflows**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/takticflow/)
 
-- 💬 Ask me about **Business & Data Analytics**
+- 💬 Ask me about **Business & AI**
 
 - 📫 How to reach me **takticflow@gmail.com**
 
