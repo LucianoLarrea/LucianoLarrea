@@ -42,8 +42,8 @@
 
 - I'm a AI Agent Engineer and Data Scientist with a background in engineering and master's degrees in Business Administration and Strategic Information Management.  
 - 👀 I’m interested to work as Data Scientist in Machine Learning and AI Agent Engineer .  
-- 🌱 I’m currently learning to use Crew AI, Swarm and n8n.  
-- 💞️ I’m looking to collaborate on Agentic Workflows.  
+- 🌱 I’m currently learning to use Langchain and Langraph.  
+- 💞️ I’m looking to collaborate on Agentic Workflows and AI Agents.
 - 📫 How to reach me? Just write me throw takticflow@gmail.com or in [LinkedIn](https://www.linkedin.com/in/takticflow/). :). 
 
 <!---
